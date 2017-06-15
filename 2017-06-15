@@ -1,0 +1,35 @@
+This Week in Cloud
+=======================================
+
+`#GCP` 2017-06-15 Google Cloud opened new Singapore region. Singapore region will help reduce the latency for customers in the Asia-Pacific region. This is 1st region in Southeast Asia (and 3rd region in Asia). Google Cloud completed the required assessment, it has been recommended, by an approved certification body, for Level 3 certification of Singapore's Multi-Tier Cloud Security (MTCS) standard (SS 584:2015+C1:2016).
+
+[New Singapore GCP Region](https://cloudplatform.googleblog.com/2017/06/Google-Cloud-Platform-comes-to-Singapore.html)
+``
+`#Azure` 2017-06-13 Microsoft joins Cloud Foundry Foundation
+Azure becomes a gold member of Cloud Foundry Foundation at `#cfsummit` to extend Cloud Foundry integration with Azure. This shows Microsoft commitment to create a diverse and open technology ecosystem, to offer you the freedom to deploy the application solution you want on the cloud platform you prefer.
+
+This includes back-end integration with Azure Database (PostgreSQL and MySQL) and cloud broker support for SQL Database, Service Bus, and Cosmos DB.
+Cloud Foundry CLI is included in the Cloud Shell.
+
+[Microsoft joins Cloud Foundry Foundation](https://azure.microsoft.com/en-us/blog/microsoft-joins-cloud-foundry-foundation/)
+
+`cfsummit` 2017-06-13 Cloud Foundry Summit Silicon Valley
+Cloud Foundry Summit is the premier event for enterprise app developers.
+
+[Live Stream](http://go.linuxfoundation.org/e/6342/vent-subpages-livestreamvideo-/3v4cp4/797707619)
+[Schedule](https://www.cloudfoundry.org/event/summit-silicon-valley-2017/)
+
+Sessions to watch for:
+* [Project Gaia: How We are Transforming Technology at JPMorgan Chase](https://cfsummit2017.sched.com/event/AJm9/project-gaia-how-we-are-transforming-technology-at-jpmorgan-chase-b-matthew-liste-bryn-worgan-jpmorgan-chase?iframe=no&w=100%&sidebar=yes&bg=no)
+  * Matthew Liste and Bryn Worgan, JPMorgan Chase
+* [Cloud Native and Automation at Garmin](https://cfsummit2017.sched.com/event/AJmA/cloud-native-and-automation-at-garmin-jonathan-regehr-james-stueve-garmin-international?iframe=no&w=100%&sidebar=yes&bg=no)
+  * Jonathan Regehr and James Stueve, Garmin International
+* [Architecture and Performance of Royal Bank of Canada’s Online Banking Application on Cloud Foundry Platform](https://cfsummit2017.sched.com/event/AJmB/architecture-and-performance-of-royal-bank-of-canadas-online-banking-application-on-cloud-foundry-platform-i-surya-v-duggirala-ibm-milorad-stefanovic-royal-bank-of-canada?iframe=no&w=100%&sidebar=yes&bg=no)
+* [Comcast Cloud Foundry Journey](https://cfsummit2017.sched.com/event/AJmE/comcast-cloud-foundry-journey-part-2-greg-otto-comcast?iframe=no&w=100%&sidebar=yes&bg=no)
+  * Comcast: an ops team of 4 powers 1500 developers, 5700 apps on-prem, Azure and AWS.
+* [Bringing Google Customer Reliability Engineering to Cloud Foundry](https://cfsummit2017.sched.com/event/B6b6/bringing-google-customer-reliability-engineering-to-cloud-foundry-luke-stone-google-andrew-clay-shafer-pivotal?iframe=no&w=100%&sidebar=yes&bg=no)
+* [Disaster Recovery from Day 1 for every system with SHIELD](https://cfsummit2017.sched.com/event/B6bk/disaster-recovery-from-day-1-for-every-system-with-shield-dr-nic-williams-stark-wayne?iframe=no&w=100%&sidebar=yes&bg=no)
+
+
+`#GCP` 2017-06-14 Cloud Next in Tokyo.
+[Tokyo](https://cloudnext.withgoogle.com/tokyo/)
